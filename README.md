@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sharmadeepak29
 - 👀 I’m interested in backend engineering
-- 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me deepakstarin19@gmail.com
 
